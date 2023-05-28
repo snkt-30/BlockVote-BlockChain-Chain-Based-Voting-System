@@ -1,0 +1,15 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "hardhat": "^2.13.1"
+  },
+  "dependencies": {
+    "chart.js": "^4.3.0",
+    "create-react-app": "^5.0.1",
+    "dotenv": "^16.0.3",
+    "react-chartjs-2": "^5.2.0",
+    "recharts": "^2.6.2",
+    "victory": "^36.6.10"
+  }
+}
