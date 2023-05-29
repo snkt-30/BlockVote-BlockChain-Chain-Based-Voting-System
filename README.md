@@ -1,13 +1,6 @@
-# Sample Hardhat Project
+# Blockchain-based e-Voting Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+Welcome to the README file for the Blockchain-based e-Voting project! This project aims to revolutionize the voting process by leveraging blockchain technology to enhance security, transparency, and trust.
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+To watch the animation and learn more about the project, click on the following link:
+[![Animation](https://img.youtube.com/vi/IdjDjxNn9ws/0.jpg)](https://www.youtube.com/watch?v=IdjDjxNn9ws)
