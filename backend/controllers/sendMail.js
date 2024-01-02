@@ -49,11 +49,11 @@ const sendMail = (email , OTP)=>{
  
  sendSmtpEmail.subject = "My {{params.subject}}";
  sendSmtpEmail.htmlContent = emailTemplate;
- sendSmtpEmail.sender = {"name":"BlockVote","email":"shubhamubarhande1114@gmail.com"};
+ sendSmtpEmail.sender = {"name":"BlockVote","email":"sanketkhonde30@gmail.com"};
  sendSmtpEmail.to = [{...too}];
 //  sendSmtpEmail.cc = [{"email":"example2@example2.com","name":"Janice Doe"}];
 //  sendSmtpEmail.bcc = [{"email":"John Doe","name":"example@example.com"}];
- sendSmtpEmail.replyTo = {"email":"shubhamubarhande1114@gmail.com","name":"Support@BlokVote"};
+ sendSmtpEmail.replyTo = {"email":"sanketkhonde30@gmail.com","name":"Support@BlokVote"};
  sendSmtpEmail.headers = {"Some-Custom-Name":"unique-id-1234"};
  sendSmtpEmail.params = {"subject":"BlockVote OTP VERIFICATION"};
  
